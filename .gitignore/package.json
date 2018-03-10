@@ -1,0 +1,17 @@
+{
+  "name": "forgebot",
+  "version": "1.0.0",
+  "description": "By ForgeGames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ForgeGames",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6"
+  }
+}
